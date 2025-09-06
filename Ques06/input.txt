@@ -1,3 +1,0 @@
-This is a test file.
-We are learning about Node.js streams.
-Piping makes it easy to transfer data!
